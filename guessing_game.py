@@ -1,4 +1,4 @@
-secret_word = "cow"
+secret_word = "giraffe"
 guess = ""
 guess_counter = 0
 guess_limit = 3
